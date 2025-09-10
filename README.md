@@ -1,5 +1,8 @@
-YouTube Clone
+#YouTube Clone
 This project is a clone of the popular video-sharing platform YouTube, developed as a part of Akshay Saini's Namaste React course. It is built using modern front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
+
+##Project Link
+https://youtube-clone-chi-rouge.vercel.app/
 
 Features
 YouTube Clone: The project is a replica of the YouTube platform, including its UI design and functionalities.
@@ -32,3 +35,7 @@ React Icons
 React Router DOM
 TailwindCSS
 These dependencies are listed in the package.json
+
+## Team
+NIT © [Sairus Varma ](https://github.com/SAIRUSVARMA)
+
